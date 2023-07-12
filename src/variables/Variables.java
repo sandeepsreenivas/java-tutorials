@@ -4,7 +4,7 @@ public class Variables {
 
     public static void main(String[] args) {
 
-        int a = 129;
+        int a = 20;
         boolean isRaining = true;
         char b = 'H';
         byte c = 120;
